@@ -1,0 +1,7 @@
+Introduction
+
+Kubernetes is an open source platform for managing container technologies such as Docker.
+
+Docker create containers for a pre-configured image and application. 
+Kubernetes provides the next step,and allows to balance loads between containers and run multiple containers across multiple systems.
+
